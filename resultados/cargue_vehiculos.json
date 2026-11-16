@@ -1,0 +1,283 @@
+{
+  "por_tamano": {
+    "estrategia": {
+      "8": {
+        "tiempo_s": 0.002091066666859357,
+        "operaciones": 24008
+      },
+      "10": {
+        "tiempo_s": 0.003084399999352172,
+        "operaciones": 30010
+      },
+      "12": {
+        "tiempo_s": 0.003310966664381946,
+        "operaciones": 36012
+      },
+      "14": {
+        "tiempo_s": 0.0036571666666228944,
+        "operaciones": 42014
+      },
+      "16": {
+        "tiempo_s": 0.004280733332658808,
+        "operaciones": 48016
+      },
+      "18": {
+        "tiempo_s": 0.004322033333058546,
+        "operaciones": 54018
+      },
+      "20": {
+        "tiempo_s": 0.0046386666666270076,
+        "operaciones": 60020
+      },
+      "22": {
+        "tiempo_s": 0.005289266666901919,
+        "operaciones": 66022
+      },
+      "40": {
+        "tiempo_s": 0.009936600000704251,
+        "operaciones": 120040
+      },
+      "80": {
+        "tiempo_s": 0.01933393333335213,
+        "operaciones": 240080
+      },
+      "160": {
+        "tiempo_s": 0.03822579999784163,
+        "operaciones": 480160
+      },
+      "320": {
+        "tiempo_s": 0.07668813333414921,
+        "operaciones": 960320
+      },
+      "640": {
+        "tiempo_s": 0.15106080000138414,
+        "operaciones": 1920640
+      },
+      "1280": {
+        "tiempo_s": 0.3079048333335474,
+        "operaciones": 3841280
+      },
+      "2560": {
+        "tiempo_s": 0.6263676999988093,
+        "operaciones": 7682560
+      }
+    },
+    "exhaustivo": {
+      "8": {
+        "tiempo_s": 0.00046986666711745784,
+        "operaciones": 2048
+      },
+      "10": {
+        "tiempo_s": 0.0008611666683767302,
+        "operaciones": 10240
+      },
+      "12": {
+        "tiempo_s": 0.003919999999197898,
+        "operaciones": 49152
+      },
+      "14": {
+        "tiempo_s": 0.019178233333756605,
+        "operaciones": 229376
+      },
+      "16": {
+        "tiempo_s": 0.08273906666727271,
+        "operaciones": 1048576
+      },
+      "18": {
+        "tiempo_s": 0.35757126666673383,
+        "operaciones": 4718592
+      },
+      "20": {
+        "tiempo_s": 1.5688612999996014,
+        "operaciones": 20971520
+      },
+      "22": {
+        "tiempo_s": 6.839174900000216,
+        "operaciones": 92274688
+      }
+    },
+    "vencimiento": {
+      "8": {
+        "tiempo_s": 9.733333475499725e-06,
+        "operaciones": 23
+      },
+      "10": {
+        "tiempo_s": 7.766667598237595e-06,
+        "operaciones": 26
+      },
+      "12": {
+        "tiempo_s": 1.0533334716456011e-05,
+        "operaciones": 38
+      },
+      "14": {
+        "tiempo_s": 1.2066666386090219e-05,
+        "operaciones": 44
+      },
+      "16": {
+        "tiempo_s": 1.3300000622014826e-05,
+        "operaciones": 49
+      },
+      "18": {
+        "tiempo_s": 1.8166665540775284e-05,
+        "operaciones": 64
+      },
+      "20": {
+        "tiempo_s": 1.5233332912127176e-05,
+        "operaciones": 66
+      },
+      "22": {
+        "tiempo_s": 1.7066668078769e-05,
+        "operaciones": 77
+      },
+      "40": {
+        "tiempo_s": 3.2166665429637455e-05,
+        "operaciones": 179
+      },
+      "80": {
+        "tiempo_s": 5.5900000006658956e-05,
+        "operaciones": 409
+      },
+      "160": {
+        "tiempo_s": 0.0001239333335737077,
+        "operaciones": 973
+      },
+      "320": {
+        "tiempo_s": 0.0003029000011641377,
+        "operaciones": 2236
+      },
+      "640": {
+        "tiempo_s": 0.0006621333329045834,
+        "operaciones": 4880
+      },
+      "1280": {
+        "tiempo_s": 0.0012368333324654184,
+        "operaciones": 10056
+      },
+      "2560": {
+        "tiempo_s": 0.002577866667706985,
+        "operaciones": 20647
+      }
+    },
+    "densidad": {
+      "8": {
+        "tiempo_s": 7.766665172918389e-06,
+        "operaciones": 25
+      },
+      "10": {
+        "tiempo_s": 8.866666272903482e-06,
+        "operaciones": 36
+      },
+      "12": {
+        "tiempo_s": 1.0599999465436364e-05,
+        "operaciones": 44
+      },
+      "14": {
+        "tiempo_s": 1.1533333842332164e-05,
+        "operaciones": 52
+      },
+      "16": {
+        "tiempo_s": 1.3300000622014826e-05,
+        "operaciones": 63
+      },
+      "18": {
+        "tiempo_s": 1.7733332545806963e-05,
+        "operaciones": 75
+      },
+      "20": {
+        "tiempo_s": 1.6599999071331695e-05,
+        "operaciones": 83
+      },
+      "22": {
+        "tiempo_s": 1.9100001130330686e-05,
+        "operaciones": 95
+      },
+      "40": {
+        "tiempo_s": 3.703333277371712e-05,
+        "operaciones": 203
+      },
+      "80": {
+        "tiempo_s": 8.253333362517878e-05,
+        "operaciones": 484
+      },
+      "160": {
+        "tiempo_s": 0.00018896666612514915,
+        "operaciones": 1126
+      },
+      "320": {
+        "tiempo_s": 0.0005174999993566113,
+        "operaciones": 2583
+      },
+      "640": {
+        "tiempo_s": 0.0010190666653215885,
+        "operaciones": 5793
+      },
+      "1280": {
+        "tiempo_s": 0.002184366666673062,
+        "operaciones": 12834
+      },
+      "2560": {
+        "tiempo_s": 0.005602600000808404,
+        "operaciones": 28272
+      }
+    }
+  },
+  "por_capacidad": {
+    "500": {
+      "tiempo_s": 0.009364566666287525,
+      "operaciones": 150300
+    },
+    "1000": {
+      "tiempo_s": 0.020327200001095964,
+      "operaciones": 300300
+    },
+    "2000": {
+      "tiempo_s": 0.04469873333315869,
+      "operaciones": 600300
+    },
+    "4000": {
+      "tiempo_s": 0.09720886666764272,
+      "operaciones": 1200300
+    },
+    "8000": {
+      "tiempo_s": 0.21857416666777377,
+      "operaciones": 2400300
+    },
+    "16000": {
+      "tiempo_s": 0.4355888666662698,
+      "operaciones": 4800300
+    }
+  },
+  "calidad": {
+    "llenado_vencimiento": 0.795510348860716,
+    "valor_vencimiento": 13951.892857142857,
+    "llenado_densidad": 0.997989414755211,
+    "valor_densidad": 45696.3125,
+    "llenado_estrategia": 0.9991496690347843,
+    "valor_estrategia": 45930.80357142857,
+    "kg_extra_por_dia": 8860.25
+  },
+  "dia_real": {
+    "celdas": 20652596,
+    "tiempo_estrategia_s": 1.7238207000009425,
+    "tiempo_regla_s": 0.005673466666242651
+  },
+  "proyeccion": {
+    "segundos_por_celda": 8.153111723160109e-08,
+    "segundos_por_revision_exhaustivo": 7.41175619038692e-08,
+    "n_maximo_exhaustivo": 22,
+    "log10_segundos_exhaustivo_n450": 130.986631687338,
+    "log10_anios_exhaustivo_n450": 123.4883211335484,
+    "tiempo_dia_estrategia_s": 1.7238207000009425,
+    "tiempo_dia_regla_s": 0.005673466666242651,
+    "fraccion_ventana_estrategia": 0.00023941954166679756,
+    "kwh_dia_estrategia": 7.182586250003927e-05,
+    "kwh_dia_regla": 2.3639444442677712e-07,
+    "kwh_anio_estrategia": 0.021547758750011782,
+    "kwh_anio_regla": 7.091833332803313e-05,
+    "kwh_anio_diferencia": 0.021476840416683747,
+    "kg_extra_por_dia": 8860.25,
+    "kg_extra_por_anio": 2658075.0,
+    "co2_kg_anio_si_10pct_se_perdia": 664518.75,
+    "co2_kg_anio_computo_diferencia": 0.00240540612666858
+  }
+}
