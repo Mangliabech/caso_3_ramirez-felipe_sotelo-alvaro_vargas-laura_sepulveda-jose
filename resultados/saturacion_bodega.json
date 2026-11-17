@@ -1,0 +1,241 @@
+{
+  "por_tamano": {
+    "exhaustivo": {
+      "16": {
+        "tiempo_s": 3.227866667998569e-05,
+        "operaciones": 816
+      },
+      "32": {
+        "tiempo_s": 0.00013020299999766394,
+        "operaciones": 5984
+      },
+      "64": {
+        "tiempo_s": 0.0006519233333316757,
+        "operaciones": 45760
+      },
+      "128": {
+        "tiempo_s": 0.0038674266666589574,
+        "operaciones": 357760
+      },
+      "256": {
+        "tiempo_s": 0.024229424666666926,
+        "operaciones": 2829056
+      },
+      "512": {
+        "tiempo_s": 0.16692251899999633,
+        "operaciones": 22500864
+      },
+      "1024": {
+        "tiempo_s": 1.2562784913333285,
+        "operaciones": 179481600
+      }
+    },
+    "actual": {
+      "16": {
+        "tiempo_s": 7.2183333278038235e-06,
+        "operaciones": 136
+      },
+      "32": {
+        "tiempo_s": 1.999899999797587e-05,
+        "operaciones": 528
+      },
+      "64": {
+        "tiempo_s": 7.488733333123794e-05,
+        "operaciones": 2080
+      },
+      "128": {
+        "tiempo_s": 0.0003216446666556294,
+        "operaciones": 8256
+      },
+      "256": {
+        "tiempo_s": 0.0012095356666653363,
+        "operaciones": 32896
+      },
+      "512": {
+        "tiempo_s": 0.005511814333326963,
+        "operaciones": 131328
+      },
+      "1024": {
+        "tiempo_s": 0.024381368999996766,
+        "operaciones": 524800
+      },
+      "2048": {
+        "tiempo_s": 0.10233407333333844,
+        "operaciones": 2098176
+      },
+      "4096": {
+        "tiempo_s": 0.3707588463333309,
+        "operaciones": 8390656
+      },
+      "8192": {
+        "tiempo_s": 1.4868564026666793,
+        "operaciones": 33558528
+      },
+      "16384": {
+        "tiempo_s": 5.889834266999998,
+        "operaciones": 134225920
+      }
+    },
+    "dyv": {
+      "16": {
+        "tiempo_s": 2.309333333982977e-05,
+        "operaciones": 80
+      },
+      "32": {
+        "tiempo_s": 3.7448333330303285e-05,
+        "operaciones": 192
+      },
+      "64": {
+        "tiempo_s": 7.761900000483972e-05,
+        "operaciones": 448
+      },
+      "128": {
+        "tiempo_s": 0.00017273666666521118,
+        "operaciones": 1024
+      },
+      "256": {
+        "tiempo_s": 0.0003729416666639433,
+        "operaciones": 2304
+      },
+      "512": {
+        "tiempo_s": 0.0007978283333234989,
+        "operaciones": 5120
+      },
+      "1024": {
+        "tiempo_s": 0.001622559999996535,
+        "operaciones": 11264
+      },
+      "2048": {
+        "tiempo_s": 0.003175210333324685,
+        "operaciones": 24576
+      },
+      "4096": {
+        "tiempo_s": 0.006614705333324385,
+        "operaciones": 53248
+      },
+      "8192": {
+        "tiempo_s": 0.013989808333330226,
+        "operaciones": 114688
+      },
+      "16384": {
+        "tiempo_s": 0.029449526333337417,
+        "operaciones": 245760
+      },
+      "32768": {
+        "tiempo_s": 0.06052482200000971,
+        "operaciones": 524288
+      },
+      "36000": {
+        "tiempo_s": 0.0705868806666577,
+        "operaciones": 582464
+      },
+      "65536": {
+        "tiempo_s": 0.13136203233332822,
+        "operaciones": 1114112
+      },
+      "131072": {
+        "tiempo_s": 0.2705846606666569,
+        "operaciones": 2359296
+      },
+      "262144": {
+        "tiempo_s": 0.5668901859999949,
+        "operaciones": 4980736
+      },
+      "524288": {
+        "tiempo_s": 1.2075491256666737,
+        "operaciones": 10485760
+      }
+    },
+    "kadane": {
+      "16": {
+        "tiempo_s": 2.0329999964966796e-06,
+        "operaciones": 16
+      },
+      "32": {
+        "tiempo_s": 2.4730000044807334e-06,
+        "operaciones": 32
+      },
+      "64": {
+        "tiempo_s": 3.6920000070495007e-06,
+        "operaciones": 64
+      },
+      "128": {
+        "tiempo_s": 6.683333329723003e-06,
+        "operaciones": 128
+      },
+      "256": {
+        "tiempo_s": 1.210199998998481e-05,
+        "operaciones": 256
+      },
+      "512": {
+        "tiempo_s": 3.171099999121907e-05,
+        "operaciones": 512
+      },
+      "1024": {
+        "tiempo_s": 5.196233333511676e-05,
+        "operaciones": 1024
+      },
+      "2048": {
+        "tiempo_s": 0.000179560333341063,
+        "operaciones": 2048
+      },
+      "4096": {
+        "tiempo_s": 0.00021189366666855372,
+        "operaciones": 4096
+      },
+      "8192": {
+        "tiempo_s": 0.00042350800000197825,
+        "operaciones": 8192
+      },
+      "16384": {
+        "tiempo_s": 0.000756868999985727,
+        "operaciones": 16384
+      },
+      "32768": {
+        "tiempo_s": 0.001669635333333493,
+        "operaciones": 32768
+      },
+      "36000": {
+        "tiempo_s": 0.0018841069999950832,
+        "operaciones": 36000
+      },
+      "65536": {
+        "tiempo_s": 0.0034244736666551034,
+        "operaciones": 65536
+      },
+      "131072": {
+        "tiempo_s": 0.007157829333332681,
+        "operaciones": 131072
+      },
+      "262144": {
+        "tiempo_s": 0.013528851333338329,
+        "operaciones": 262144
+      },
+      "524288": {
+        "tiempo_s": 0.03134418133333838,
+        "operaciones": 524288
+      }
+    }
+  },
+  "proyeccion": {
+    "n_maximo_actual_medido": 16384,
+    "t_categoria_actual_s": 28.435979820907104,
+    "t_total_actual_s": 1137.439192836284,
+    "fraccion_ventana_actual": 0.15797766567170612,
+    "kwh_corrida_actual": 0.047393299701511835,
+    "kwh_anio_actual": 0.568719596418142,
+    "t_categoria_dyv_s": 0.0705868806666577,
+    "t_total_dyv_s": 2.823475226666308,
+    "fraccion_ventana_dyv": 0.00039214933703698724,
+    "kwh_corrida_dyv": 0.00011764480111109616,
+    "kwh_anio_dyv": 0.001411737613333154,
+    "t_categoria_kadane_s": 0.0018841069999950832,
+    "t_total_kadane_s": 0.07536427999980333,
+    "fraccion_ventana_kadane": 1.0467261111083796e-05,
+    "kwh_corrida_kadane": 3.1401783333251388e-06,
+    "kwh_anio_kadane": 3.768213999990167e-05,
+    "kwh_corrida_cliente": 3.6,
+    "kwh_anio_cliente": 43.2,
+    "kwh_anio_ahorro_actual_vs_kadane": 0.5686819142781421
+  }
+}
