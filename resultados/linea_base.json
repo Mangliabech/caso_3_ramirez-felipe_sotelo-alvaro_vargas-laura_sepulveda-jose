@@ -1,0 +1,31 @@
+{
+  "operacion_1": {
+    "t_consulta_codigo_s": 0.0017509493749997772,
+    "t_consulta_rango_s": 0.007424977000008918,
+    "t_total_s": 52.825480329993674
+  },
+  "operacion_2": {
+    "medidos_s": {
+      "5000": 0.03995862199999086,
+      "10000": 0.18649763099998987,
+      "20000": 0.6769308803333539,
+      "40000": 3.0413088199999834
+    },
+    "t_total_s": 91.9995918049995
+  },
+  "tiempos_s": {
+    "1. Consulta de\ninventario": 52.825480329993674,
+    "2. Ordenamiento\nFEFO": 91.9995918049995,
+    "3. Cargue (regla\nactual)": 0.003393993666672183,
+    "4. Saturación (todos\nlos tramos)": 1137.439192836284
+  },
+  "kwh_por_ejecucion": {
+    "1. Consulta de\ninventario": 0.0022010616804164027,
+    "2. Ordenamiento\nFEFO": 0.003833316325208312,
+    "3. Cargue (regla\nactual)": 1.4141640277800763e-07,
+    "4. Saturación (todos\nlos tramos)": 0.047393299701511835
+  },
+  "planeacion_cliente_kwh_noche": 0.6749999999999999,
+  "planeacion_cliente_kwh_anio": 202.49999999999997,
+  "kwh_anio_op4_actual_medido": 0.568719596418142
+}
