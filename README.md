@@ -2,9 +2,9 @@
 
 ## Caso 3: Banco Regional de Alimentos
 
-- **Integrantes:** Valentina Vargas, Álvaro Sotelo, Felipe Ramírez y José Sepúlveda
+- **Integrantes:** Laura Valentina Vargas Cortes, Álvaro Sotelo Galvis, Felipe Ramírez Loaiza y José Fernando Sepúlveda Chanci
 - **Caso asignado:** Caso 3 — Banco de alimentos
-- **Entregas:** Laboratorio 4 (operación 3, miércoles 18 de noviembre de 2026) y proyecto final (lunes 23 de noviembre de 2026)
+- **Entregas:** Laboratorio 4 (operación 3) y proyecto final
 
 En este informe analizamos el proceso de planeación de despachos del Banco Regional de Alimentos, que hoy no alcanza a terminar dentro de su ventana de 2 horas. Trabajamos a fondo dos de las cuatro operaciones críticas: la **operación 3 (cargue de los vehículos)**, que resolvimos con programación dinámica (mochila 0/1) y es la parte del Laboratorio 4, y la **operación 4 (análisis de saturación de la bodega)**, que resolvimos de dos formas: divide y vencerás y programación dinámica. De las operaciones 1 y 2 medimos cómo funcionan hoy para tener la línea base del proceso, pero no las implementamos.
 
